@@ -6,7 +6,7 @@ a = input("Do you like 'hanging around'?: ")
 if a.lower() == 'no':
   print('Then you are not a spider-man')
 else:
-  print('Then you are a spider-man')
+  print('Then you are a spider-man.')
 print()
 b = input('Do you like rotten food?: ')
 if b.lower() == 'yes':
